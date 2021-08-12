@@ -1,0 +1,13 @@
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.blue-box {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    position: absolute;
+    top: 50px;
+    left: 0;
+}
